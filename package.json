@@ -1,0 +1,1 @@
+{"description":"BestClipNest optional backend API — link validation and public-metadata resolution for users' own or authorised videos (see ../BACKEND-SPEC.md).","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"bestclipnest-api","private":true,"scripts":{"start":"node server.js","test":"node test.js"},"type":"commonjs","version":"1.0.0"}
